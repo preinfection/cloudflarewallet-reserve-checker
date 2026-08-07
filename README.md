@@ -1,6 +1,8 @@
 # cloudflare.pay username helper, to run open command prompt in the downloaded folder and paste this "python checker.py check"
 
-<img src="screenshot.jpg" width="500">
+<p align="center">
+  <img src="screenshot.jpg" width="500">
+</p>
 
 A personal tool for picking your own handle on https://cloudflare.pay
 (Cloudflare Wallet name reservation). It generates a big list of
