@@ -1,5 +1,5 @@
-# cloudflare.pay username helper
-run "python checker.py check"
+# cloudflare.pay username helper, to run open command prompt in the downloaded folder and paste this "python checker.py check"
+
 <img src="screenshot.jpg" width="500">
 
 A personal tool for picking your own handle on https://cloudflare.pay
