@@ -1,4 +1,4 @@
-#                 cloudflare.pay username helper
+<h1 align="center">cloudflare.pay username helper</h1>
 
 <p align="center">
   <img src="screenshot.jpg" width="500">
