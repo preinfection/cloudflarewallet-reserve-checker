@@ -1,5 +1,7 @@
 # cloudflare.pay username helper
 
+# run "python checker.py check" if you want to check instant with default generated usernames in this repo.
+
 A personal tool for picking your own handle on https://cloudflare.pay
 (Cloudflare Wallet name reservation). It generates a big list of
 candidate names in the styles you want, then checks them against the
