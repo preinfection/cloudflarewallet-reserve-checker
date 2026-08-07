@@ -1,0 +1,27 @@
+# Run-generated state -- created fresh by `python checker.py check`.
+# Not shipped with the repo so nobody's personal results/progress end up
+# in git history. usernames.txt and wordlist_pool.txt ARE tracked: they're
+# deterministic candidate data meant to ship pre-built, not per-run output.
+checked.log
+available.txt
+errors.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
