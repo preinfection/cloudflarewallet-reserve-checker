@@ -1,6 +1,6 @@
 # cloudflare.pay username helper
 run "python checker.py check"
-![screenshot](screenshot.jpg)
+<img src="screenshot.jpg" width="500">
 
 A personal tool for picking your own handle on https://cloudflare.pay
 (Cloudflare Wallet name reservation). It generates a big list of
