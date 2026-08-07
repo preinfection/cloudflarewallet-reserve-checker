@@ -1,4 +1,4 @@
-# cloudflare.pay username helper, to run open command prompt in the downloaded folder and paste this "python checker.py check"
+# cloudflare.pay username helper
 
 <p align="center">
   <img src="screenshot.jpg" width="500">
